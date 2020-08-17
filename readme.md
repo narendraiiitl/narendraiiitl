@@ -1,6 +1,6 @@
 ### Hi there, I'm Narendra Singh - aka [Nishad] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://Eduthon.tech)
+[![Website](https://www.google.com/search?q=eduthon&rlz=1C1GCEA_enIN914IN914&sxsrf=ALeKk01XPIkzAGFLwPcpVt5sITLQxW3osg:1597673985863&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5qpOzt6LrAhVE7HMBHRWoA8kQ_AUoA3oECAwQBQ&biw=1280&bih=616#imgrc=GfTF6XbYaTLC9M)](https://Eduthon.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Developer,Competative Coder and Student!
