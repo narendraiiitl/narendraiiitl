@@ -1,5 +1,5 @@
 ### Hi there, I'm Narendra Singh - aka [Nishad] 👋
-(https://Eduthon.tech)
+See my work : https://Eduthon.tech
 ## I'm a Developer,Competative Coder and Student!
 
 - 🔭 I’m currently working on a IIITL Student Portal
