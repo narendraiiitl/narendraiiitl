@@ -9,13 +9,10 @@ See my work : https://Eduthon.tech
 - ⚡ Fun fact: I love to watch webseries and play games
 
 ## GitHub Statistics
-
   <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=narendraiiitl&show_icons=true&hide_border=true" />
-
----
 <br />
+---
 Listen My playlist on Spotify 🎧
 https://open.spotify.com/playlist/5Qb1CGRz1A1GdNeCGnA0OU
 
