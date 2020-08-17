@@ -1,15 +1,15 @@
-### Hi there, I'm Narendra Singh - aka [codeSTACKr][website] 👋
+### Hi there, I'm Narendra Singh - aka [Nishad] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a , Father, Developer, and Teacher!
+## I'm a Developer,Competative Coder and Student!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a IIITL Student Portal
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to watch webseries and play games
 
 ### Spotify Playing 🎧
 [<img src="https://www.google.com/search?q=image+of+badish+bandit&rlz=1C1GCEA_enIN914IN914&sxsrf=ALeKk01OaBbDLrvLAz4lzF408K7lVs9aYQ:1597672637831&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjxi66wsqLrAhXQb30KHRkiDW8Q_AUoAXoECA0QAw&biw=1280&bih=616#imgrc=poWAMK6D105eeM" alt=" Spotify Playing" width="350" />](https://open.spotify.com/playlist/5Qb1CGRz1A1GdNeCGnA0OU)
