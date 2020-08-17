@@ -9,7 +9,8 @@ See my work : https://Eduthon.tech
 - ⚡ Fun fact: I love to watch webseries and play games
 
 ### Spotify Playing 🎧
-[<img src="https://www.google.com/search?q=image+of+badish+bandit&rlz=1C1GCEA_enIN914IN914&sxsrf=ALeKk01OaBbDLrvLAz4lzF408K7lVs9aYQ:1597672637831&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjxi66wsqLrAhXQb30KHRkiDW8Q_AUoAXoECA0QAw&biw=1280&bih=616#imgrc=poWAMK6D105eeM" alt=" Spotify Playing" width="350" />](https://open.spotify.com/playlist/5Qb1CGRz1A1GdNeCGnA0OU)
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/5Qb1CGRz1A1GdNeCGnA0OU)
 
 ### Connect with me:
 
