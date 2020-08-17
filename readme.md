@@ -8,7 +8,7 @@ See my work : https://Eduthon.tech
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch webseries and play games
 
----
+### GitHub Statistics
 
   <summary>:zap: Github Stats</summary>
 
@@ -16,7 +16,6 @@ See my work : https://Eduthon.tech
 
 ---
 <br />
----
 ### Listen My playlist on Spotify 🎧
 (https://open.spotify.com/playlist/5Qb1CGRz1A1GdNeCGnA0OU)
 
