@@ -15,7 +15,7 @@ See my work : https://Eduthon.tech
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=narendraiiitl&show_icons=true&hide_border=true" />
 
 ---
-<br>
+<br />
 
 ### Listen on Spotify 🎧
 (https://open.spotify.com/playlist/5Qb1CGRz1A1GdNeCGnA0OU)
