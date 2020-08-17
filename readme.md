@@ -39,6 +39,15 @@ See my work : https://Eduthon.tech
 
 <br /> 
 
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=narendraiiitl&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/Narendr54819921
 [instagram]: https://www.instagram.com/welkin.design
 [linkedin]: https://www.linkedin.com/in/narendra-singh-139b5219a/
