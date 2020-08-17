@@ -1,6 +1,6 @@
 ### Hi there, I'm Narendra Singh - aka Nishad 👋
 See my work : https://Eduthon.tech
-## I'm a Developer,Competative Coder and Student!
+## I'm a Developer, Competative Coder and Student!
 
 - 🔭 I’m currently working on a IIITL Student Portal
 - 🌱 I’m currently learning everything 🤣
@@ -8,7 +8,7 @@ See my work : https://Eduthon.tech
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch webseries and play games
 
-### Spotify Playing 🎧
+### Listen on Spotify 🎧
 (https://open.spotify.com/playlist/5Qb1CGRz1A1GdNeCGnA0OU)
 
 ### Connect with me:
