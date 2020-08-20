@@ -1,6 +1,6 @@
 ## Hi there, I'm Narendra Singh - aka Nishad 👋
 See my work : https://Eduthon.tech
-## I'm a Developer, Competative Coder and Student!
+## I'm a Developer, Designer, Competative Coder and Student!
 
 - 🔭 I’m currently working on a IIITL Student Portal
 - 🌱 I’m currently learning everything 🤣
