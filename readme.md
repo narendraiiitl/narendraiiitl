@@ -1,6 +1,5 @@
 ## Hi there, I'm Narendra Singh - aka Nishad 👋
-See my work : https://Eduthon.tech
-              https://axios-iiitl.github.io/
+See my work : https://Eduthon.tech , https://axios-iiitl.github.io/
 ## I'm a Developer, Designer, Competative Coder and Student!
 
 - 🔭 I’m currently working on Axios IIITL Website
