@@ -2,7 +2,7 @@
 See my work : https://Eduthon.tech , https://axios-iiitl.github.io/
 ## I'm a Developer, Designer, Competative Coder and Student!
 
-- 🔭 I’m currently working on Axios IIITL Website
+- 🔭 I’m currently working on a Online Labour Booking Web App
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
