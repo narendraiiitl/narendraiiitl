@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://narendraiiitl.github.io/portfolio/](https://narendraiiitl.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://narendrasingh.me](https://narendrasingh.me)
 
 - 💬 Ask me about **JavaScript**
 
